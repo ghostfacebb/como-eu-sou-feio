@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Como Eu Sou Feio - Loja de Keys</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Como Eu Sou Feio</h1>
+        <nav>
+            <ul>
+                <li><a href="#steam-keys">Keys da Steam</a></li>
+                <li><a href="#produtos-virtuais">Produtos Virtuais</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="steam-keys">
+            <h2>Keys da Steam</h2>
+            <div class="product-list">
+                <div class="product-item">
+                    <h3>Jogo 1</h3>
+                    <p>Preço: R$59,99</p>
+                </div>
+                <div class="product-item">
+                    <h3>Jogo 2</h3>
+                    <p>Preço: R$89,99</p>
+                </div>
+                <div class="product-item">
+                    <h3>Jogo 3</h3>
+                    <p>Preço: R$120,00</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="produtos-virtuais">
+            <h2>Produtos Virtuais</h2>
+            <div class="product-list">
